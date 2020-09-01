@@ -53,4 +53,4 @@ MIT License is used.
 2 No, you are not compelled to provide source code.</br>
 3 Anyone who receives source code may do as the license permits. This does not extend to binary distributions.</br>
 
-Read the MIT license for more details. Read the whole thing and understand it. :smile:
+Read the MIT license for more details. [Read the whole LICENSE](https://choosealicense.com/licenses/mit) and understand it. :smile:
